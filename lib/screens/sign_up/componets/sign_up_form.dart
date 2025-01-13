@@ -109,7 +109,6 @@ class _SignUpFormState extends State<SignUpForm> {
     );
   }
 
-
   buildEmailFormField() {
     return TextFormField(
       keyboardType: TextInputType.emailAddress,
